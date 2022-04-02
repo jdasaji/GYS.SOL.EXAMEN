@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GYS.SOL.CapaNegocio\GYS.SOL.CapaNegocio.csproj" />
+    <ProjectReference Include="..\GYS.SOL.Contracto\GYS.SOL.Contracto.csproj" />
+  </ItemGroup>
+
+</Project>

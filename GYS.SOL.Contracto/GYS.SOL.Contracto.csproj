@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GYS.SOL.CapaEntidad\GYS.SOL.CapaEntidad.csproj" />
+  </ItemGroup>
+
+</Project>
